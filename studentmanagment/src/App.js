@@ -17,9 +17,9 @@ function App() {
         <Route path='/land' element={<Land/>}/>
         <Route path='/teacher' element={[<Navbarhomepage2/>,<Teacherhomepage/>]}/>
         <Route path='registerstud' element={[<Navbarhomepage2/>,<Registerstudent/>]}/>
-        <Route path='/teacherlogin' element={[<Navbarhomepage/>,<Teacherloginpage/>]}/>
+        <Route path='/teacherlogin' element={[<Land/>,<Teacherloginpage/>]}/>
         <Route path='/viewprofile' element={[<Navbarhomepage2/>,<Viewteacherprofile/>]}/>
-        <Route path='/registertea' element={[<Navbarhomepage/>,<Registerteacher/>]}/>
+        <Route path='/registertea' element={[<Land/>,<Registerteacher/>]}/>
         <Route path='/navbarnew2' element={[<Navbarhomepage2/>]}/>
     </Routes>
     </BrowserRouter>
