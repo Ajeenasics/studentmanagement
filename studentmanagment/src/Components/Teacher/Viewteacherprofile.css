@@ -1,0 +1,58 @@
+#new4{
+    height: 16cm;
+    width: 15cm;
+    background-color:rgba(250, 235, 215, 0.501);
+    text-align:center;
+    margin-left: 13cm;
+    margin-top: 1cm;
+    padding: 20px;
+}
+/* #big4{
+    background-image: url(../../images/img5.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+#h4{
+    height: 1cm;
+    width: 5cm;
+    margin-top: 1cm;
+}
+#table4{
+    margin-left: 2cm;
+}
+#back4{
+    margin-top: 1cm;
+    margin-left: 1cm;
+}
+
+
+#reg4{
+    margin-left: 80px;
+  }
+  #pro5{
+    margin-left: 80px;
+  }
+  #pro6{
+    margin-left: 80px;
+  }
+  #tim4{
+    margin-left: 80px;
+  }
+  #not4{
+    margin-left: 80px;
+  }
+  #stud4{
+    margin-left: 80px;
+  }
+  #log4{
+    margin-left: 70px;
+    margin-top: 10px;
+  }
+ #ul4{
+    background-color: antiquewhite;
+    margin-top:-5px;
+ }
+ #img4{
+    height: 190px;
+    width: 190px;
+ }
