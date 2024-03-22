@@ -1,0 +1,41 @@
+#a1{text-align:center;}
+#new1{
+    height: 16cm;
+    width: 16cm;
+    font-weight: 100;
+    background-color:rgba(162, 210, 223, 0.681) ;
+    border: 2px solid;
+    margin-left: 10cm;
+    margin-top: 2cm;
+    padding: 16px;
+}
+/* #big1{
+    background-image: url('../../Assets/img4.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+} */
+#reg1{
+    margin-left: 80px;
+  }
+  #pro1{
+    margin-left: 80px;
+  }
+  #pro2{
+    margin-left: 80px;
+  }
+  #tim1{
+    margin-left: 80px;
+  }
+  #not1{
+    margin-left: 80px;
+  }
+  #stud1{
+    margin-left: 80px;
+  }
+  #log1{
+    margin-left: 70px;
+    margin-top: 10px;
+  }
+ #ul1{
+    background-color: antiquewhite;
+ }
