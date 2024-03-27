@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import photo1 from "../images/img6.jpg"
 function LandingNavbar() {
   return (
     <div style={{backgroundColor:"brown"}}>
@@ -15,14 +16,17 @@ function LandingNavbar() {
     
   </ul>
   <form class="d-flex" role="search">
-    <Link to='/log'><button class="btn btn-outline-success me-3" type="submit">Login</button></Link>
-    <Link to='/log'><button class="btn btn-outline-success me-5" type="submit">Register</button></Link>
+    <Link to='/teacherlogin'><button class="btn btn-outline-success me-3" type="submit">Login</button></Link>
+    <Link to='/registertea'><button class="btn btn-outline-success me-5" type="submit">Register</button></Link>
 
   </form>
 </div>
 </div>
 </nav>
+< img src={photo1} style={{height:"800px",width:"100%"}} alt="..."/>
+
 </div>
+
 
   )
 }

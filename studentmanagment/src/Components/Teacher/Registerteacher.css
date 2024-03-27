@@ -1,0 +1,82 @@
+#a1{text-align:center;}
+#new1{
+    /* height: 10cm;
+    width: 16cm; */
+    font-weight: 100;
+    background-color:rgba(98, 103, 105, 0.681) ;
+    border: 2px solid;
+    margin-left: 10cm;
+    margin-top: 2cm;
+    padding: 16px;
+    text-align: center;
+}
+#name{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 100px;
+}
+#school{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 100px;
+
+}
+#subject{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 100px;
+
+}
+#email{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 100px;
+
+}
+#pass{
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 100px;
+
+}
+#inp1{
+    text-align: center;
+}
+#inp2{
+    text-align: center;
+
+}
+#inp3{
+    text-align: center;
+
+}
+#inp4{
+    text-align: center;
+
+}
+#inp5{
+    text-align: center;
+
+}
+#td1{
+    padding-left: 50px;
+}
+#td2{
+    padding-left: 50px;
+
+}
+#td3{
+    padding-left: 50px;
+
+}
+#td4{
+    padding-left: 50px;
+
+}
+#td5{
+    padding-left: 50px;
+
+}
+#button{
+    margin-top: 10px;
+}

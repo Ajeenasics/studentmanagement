@@ -1,0 +1,19 @@
+.text{
+  margin-left: 600px;
+  padding-top: 300px;
+  
+}
+.login{
+  margin-left: 630px;
+  margin-top: 30px;
+  
+
+
+}
+.adminhomepic{
+
+    width: 100%; height: 100vh;background-image: url("./Images/picture.jpg");}
+    .txt{
+        padding-top: 600px; 
+    }
+    
