@@ -1,0 +1,30 @@
+.student-profile {
+    max-width: 500px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(24, 5, 5, 0.13);
+    
+  }
+  
+  .profile-details div {
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .profile-details strong {
+    margin-right: 5px;
+    font-weight: bold;
+  }
+  .image{
+    height: 120px;
+    width: 200px;
+  
+  }
+  .backimg{
+    background-image: url();
+    background-size: 100hv;
+    background-repeat: no-repeat;
+  }
+  
